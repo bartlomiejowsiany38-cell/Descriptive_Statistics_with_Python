@@ -14,4 +14,4 @@ libraries: numpy, pandas, scipy, matplotlib, seaborn
 8. Box plots
 9. Skewness and Kurtosis
 
-Datasets used: [Coffee sales data](https://www.kaggle.com/datasets/ihelon/coffee-sales), [Heights and Weights Dataset](https://www.kaggle.com/datasets/burnoutminer/heights-and-weights-dataset)
+Datasets used: [Coffee Sales Data](https://www.kaggle.com/datasets/ihelon/coffee-sales), [Heights and Weights Dataset](https://www.kaggle.com/datasets/burnoutminer/heights-and-weights-dataset)
